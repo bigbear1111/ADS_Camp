@@ -106,7 +106,9 @@ Let’s now make a different example. We have run a survey to understand what op
 
 
 
-![download](/Users/sean/repo/ADS_Camp/Module7/Pictures/1.png)!
+![](https://github.com/bigbear1111/ADS_Camp/blob/main/Module7/Pictures/1.png)
+
+
 
 
 
@@ -295,7 +297,9 @@ The basic layout of a randomized controlled trial is built from the following pa
 - The next step is to choose a sample size and do two random subsamples of the same size, where one subsample is the *intent to treat* (ITT) group and the other the non-ITT group, sometimes called the control group.
 - Some of the individuals in the ITT group will refuse or become unavailable for treatment due to some factors that we cannot control, these will be the not-treated and the remaining are the treated group.
 
-![download (1)](/Users/sean/repo/ADS_Camp/Module7/Pictures/2.png)
+![](https://github.com/bigbear1111/ADS_Camp/blob/main/Module7/Pictures/2.png)
+
+
 
 Once the trial is done we usually want to estimate the effect of the treatment.
 
